@@ -18,20 +18,6 @@
 1. 采用清晰的URL结构：利于抓取与排名
 使用清晰、简洁的URL是技术SEO的基础。对于“日本AV免费”相关页面，建议采用结构化的路径设计，如下：
 
-✅ 推荐结构：
-
-bash
-Sao chép
-Chỉnh sửa
-yoursite.com/japan-av/女优名/作品名
-yoursite.com/japan-av/排行榜/2025热播
-❌ 避免结构：
-
-bash
-Sao chép
-Chỉnh sửa
-yoursite.com/page?id=1234
-yoursite.com/view.php?item=5678
 好处：
 
 便于搜索引擎抓取和理解内容主题
